@@ -1,6 +1,7 @@
 # RIG-Using-DataGemma
 DataGemma is an open model developed by Google to connect LLMs with trust-worthy, factual, real-world data sourced from Google’s DataCommons. 
 In DataGemma, Retrieval-Interleaved Generation (RIG) enhances the accuracy and relevance of outputs. 
+Read the entire article on: https://www.analyticsvidhya.com/blog/2024/09/datagemma/
 To implement RIG: 
 Pre-requisites:
 
